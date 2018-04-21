@@ -1,6 +1,7 @@
 # LocalShopper
 
-Local Shopper is a web application designed to solve the problem of needing to purchase a specific product on the same day, but are unsure of where to purchase it. As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. As a side benefit of speed of purchase, there are no shipping charges. 
+Local Shopper is a web application designed to solve the problem of needing to purchase a specific product on the same day, but are unsure of where to purchase it. 
+As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. As a side benefit of speed of purchase, there are no shipping charges. 
 
 ---
 
@@ -32,14 +33,15 @@ In addition to competing with Amazon and other online retailers for marketshare,
 
 Integrate with brickseek.com inventory for local results from big box stores.
 
+---
 
 ## Authors
 
-* **Anindya Gupta** - Full Stack
-* **Christopher Clark** - Backend
-* **Darwood Martin** - Full Stack
-* **Luke Stewart** - Front End
-* **Kenneth Lanza** - Full Stack/Project Manager
+* **Anindya Gupta** - Full Stack Master
+* **Christopher Clark** - Backend Badass
+* **Darwood Martin** - Full Stack Guru
+* **Luke Stewart** - Front End Dude
+* **Kenneth Lanza** - Full Stack/Project Manager/Overlord
 
 ---
 
