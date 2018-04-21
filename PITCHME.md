@@ -34,9 +34,10 @@ In addition to competing with Amazon and other online retailers for marketshare,
 
 ---
 
-## Stretch Goals
+## Future Growth
 
 * Integrate with brickseek.com inventory for local results from big box stores.
+* 
 
 ---
 
