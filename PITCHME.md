@@ -1,6 +1,10 @@
 # LocalShopper
 
-Local Shopper is a web application designed to solve the problem of needing a specific product on the same day, but are unsure of where to purchase it. As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. In addition to speed of purchase, there are no shipping charges. In addition to competing with Amazon and other online retailers for marketshare, Local Shopper opens up the world of eCommerce to small, locally owned businesses by allowing them to upload store inventory in a CSV file format, making the process quick and painless.
+Local Shopper is a web application designed to solve the problem of needing a specific product on the same day, but are unsure of where to purchase it. As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. In addition to speed of purchase, there are no shipping charges. 
+
+---
+
+In addition to competing with Amazon and other online retailers for marketshare, Local Shopper opens up the world of eCommerce to small, locally owned businesses by allowing them to upload store inventory in a CSV file format, making the process quick and painless.
 
 ---
 
