@@ -1,6 +1,11 @@
 # LocalShopper
 
+---
+
 Local Shopper is a web application designed to solve the problem of needing to purchase a specific product on the same day, but are unsure of where to purchase it. 
+
+---
+
 As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. As a side benefit of speed of purchase, there are no shipping charges. 
 
 ---
@@ -31,7 +36,7 @@ In addition to competing with Amazon and other online retailers for marketshare,
 
 ## Stretch Goals
 
-Integrate with brickseek.com inventory for local results from big box stores.
+* Integrate with brickseek.com inventory for local results from big box stores.
 
 ---
 
