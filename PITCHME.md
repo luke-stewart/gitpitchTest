@@ -27,10 +27,16 @@ http://localshopper.herokuapp.com/
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 * [Heroku](https://www.heroku.com/) - Server and database hosting for running application
 * [Express](https://expressjs.com) - Web application and server structure framework
+
+---
+
 * [BCrypt](https://www.npmjs.com/package/bcrypt) - A password hashing function
 * [Passport](http://www.passportjs.org/) - Authentication middleware for Node.js
 * [MongoDB](https://www.mongodb.com) -  A free and open-source cross-platform document-oriented database program
 * [NekoDB](https://www.npmjs.com/package/nekodb) - Tiny ODM for MongoDB
+
+---
+
 * [CSV to JSON](https://www.npmjs.com/package/csvtojson) - Nodejs csv parser to convert csv to json or column arrays
 * [BusBoy](https://github.com/mscdex/busboy) - A streaming parser for HTML form data for node.js
 * [Express-File Upload](https://www.npmjs.com/package/express-fileupload) - Simple express file upload middleware that wraps around Busboy
@@ -43,9 +49,7 @@ http://localshopper.herokuapp.com/
 * **Luke Stewart** - ** - [linkadinkadoo](https://github.com/luke-stewart)
 * **Kenneth Lanza** - ** - [klanza](https://github.com/klanza)
 
-## License
-
-* MIT
+---
 
 ## Acknowledgments
 
