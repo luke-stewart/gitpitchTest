@@ -34,12 +34,11 @@ http://localshopper.herokuapp.com/
 * [Passport](http://www.passportjs.org/) - Authentication middleware for Node.js
 * [MongoDB](https://www.mongodb.com) -  A free and open-source cross-platform document-oriented database program
 * [NekoDB](https://www.npmjs.com/package/nekodb) - Tiny ODM for MongoDB
-
----
-
 * [CSV to JSON](https://www.npmjs.com/package/csvtojson) - Nodejs csv parser to convert csv to json or column arrays
 * [BusBoy](https://github.com/mscdex/busboy) - A streaming parser for HTML form data for node.js
 * [Express-File Upload](https://www.npmjs.com/package/express-fileupload) - Simple express file upload middleware that wraps around Busboy
+
+---
 
 ## Authors
 
