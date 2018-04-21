@@ -7,7 +7,7 @@
 theme : beige
 layout : center
 background-size : cover
-background-color : light-green
+background-color : #4eff6c
 highlight : atom-one-dark
 transition : none
 published : true

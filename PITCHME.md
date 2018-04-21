@@ -1,22 +1,10 @@
 # LocalShopper
 
-Local Shopper is a web application designed to solve the problem of needing a specific product on the same day, but are unsure of where to purchase it. As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. In addition to speed of purchase, there are no shipping charges. 
+Local Shopper is a web application designed to solve the problem of needing to purchase a specific product on the same day, but are unsure of where to purchase it. As fast as Amazon is, it is not as fast as driving to a local store and purchasing the product. As a side benefit of speed of purchase, there are no shipping charges. 
 
 ---
 
-In addition to competing with Amazon and other online retailers for marketshare, Local Shopper opens up the world of eCommerce to small, locally owned businesses by allowing them to upload store inventory in a CSV file format, making the process quick and painless.
-
----
-
-## Getting Started
-
-In order to get this program running on a local system for development or testing, you will need to follow several steps. If you would like to view an already working model, the application is hosted at http://localshopper.herokuapp.com/
-
----
-
-## Deployment
-
-http://localshopper.herokuapp.com/
+In addition to competing with Amazon and other online retailers for marketshare, Local Shopper opens up the world of eCommerce to small, locally owned businesses by allowing them to upload their store inventory in a CSV file format, making the process quick and painless.
 
 ---
 
@@ -40,21 +28,30 @@ http://localshopper.herokuapp.com/
 
 ---
 
+## Stretch Goals
+
+Integrate with brickseek.com inventory for local results from big box stores.
+
+
 ## Authors
 
-* **Anindya Gupta** - ** - [anindya1234](https://github.com/anindya1234)
-* **Christopher Clark** - ** - [christopheryc94](https://github.com/christopheryc94)
-* **Darwood Martin** - ** - [ddmartin3](https://github.com/ddmartin3)
-* **Luke Stewart** - ** - [linkadinkadoo](https://github.com/luke-stewart)
-* **Kenneth Lanza** - ** - [klanza](https://github.com/klanza)
+* **Anindya Gupta** - Full Stack
+* **Christopher Clark** - Backend
+* **Darwood Martin** - Full Stack
+* **Luke Stewart** - Front End
+* **Kenneth Lanza** - Full Stack/Project Manager
 
 ---
 
-## Acknowledgments
+## Special thanks to:
 
-* **Jan Jorgenson** - ** - [ramblinjan](https://github.com/ramblinjan)
-* **Peter Fesz-Nguyen** - ** - [cutejs](https://github.com/cutejs)
-* **Joel Bojorquez** - ** - [eyesore-](https://github.com/eyesore-)
-* **Nicholas Green** - ** - [nicholasgreen94](https://github.com/nicholasgreen94)
+* **Jan Jorgenson**
+* **Peter Fesz-Nguyen**
+* **Joel Bojorquez**
+* **Nicholas Green**
 
-* Thanks to The Coding Bootcamp for the support and education
+---
+
+## Let's do this!
+
+http://localshopper.herokuapp.com/
