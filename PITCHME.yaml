@@ -4,7 +4,7 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : night
+theme : sky
 layout : center
 background-size : cover
 background-color : light-green
