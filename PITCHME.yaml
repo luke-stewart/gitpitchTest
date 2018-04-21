@@ -4,11 +4,11 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : green
-theme-override : assets/css/PITCHME.css
-background : assets/image/envelope.svg
+theme : moon
+layout : center
 background-size : cover
+background-color : light-green
 highlight : atom-one-dark
 transition : none
 published : true
-footnote : "GitPitch Pro [ Envelope ] Presentation Template"
+footnote : "Local Shopper"
