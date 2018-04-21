@@ -4,8 +4,7 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : sky
-theme-override : PITCHME.css
+theme : beige
 layout : center
 background-size : cover
 background-color : light-green
