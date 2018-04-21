@@ -5,7 +5,7 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 theme : beige
-layout : center
+layout : center-left
 background-size : cover
 background-color : #4eff6c
 highlight : atom-one-dark
